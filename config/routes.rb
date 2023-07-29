@@ -3,5 +3,5 @@ Rails.application.routes.draw do
  get'home', to:'pages#home'
  get 'about', to:'pages#about'
  get 'details', to:'pages#details'
- resources :articles , only: [:show,:index]
+ resources :articles , only: [:show,:index,:new,:create]
 end
