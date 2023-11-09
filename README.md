@@ -1,5 +1,5 @@
 # README
-# Started the ruby course by Mashrur Hussain
+# Implemented User and email validation
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
